@@ -1,1 +1,1 @@
-實際網址如下:https://tsuiokuyo.netlify.app/b/animelist/animelist
+已放棄，改弄https://github.com/Tsuiokuyo/animeListTW
